@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Hi, Bảo An',
     introDesc: `Ánh mắt ta chạm nhau, chỉ muốn ngắm em lâu thật lâu :))))`,
     btnIntro: 'Do em mở mắt nhìn BT hơi to thôi :v ',
-    title: 'Muốn mời Bảo Ăn đi ăn không biết có được không ta ????',
+    title: 'Muốn mời Bảo An đi ăn không biết có được không ta ????',
     desc: 'Bán cho anh ít thời gian sau 20-11 của em nhé ',
     btnYes: 'OKEEEEE, em đi ăn với anh nè <3',
     btnNo: 'KHÔNG, đấm cho dừ, em đùa đó không đi mô',
